@@ -1,0 +1,94 @@
+.header{
+    padding: 25px;
+    padding-top: 25px ;
+ 
+}
+.first_page_content{
+    width: 1920px;
+    height: 700px;
+    background: #EEEFF1;
+
+}
+
+.header_nav  {
+float:right ;
+padding: 30px;
+
+
+}
+.header_link{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+
+}
+
+.header_logo {
+    float: left;
+    position: absolute;
+    width: 96px;
+    height: 60px;
+    left: 402px;
+    top: 50px;
+    background: rgba(52, 84, 122, 0.8);
+
+}
+
+.header_content_info{
+
+
+}
+.header_heading{
+    position: absolute;
+    width: 541px;
+    height: 45px;
+    left: 974px;
+    top: 250px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    
+    color: #000000;
+    
+}
+
+.header_text{
+    position: absolute;
+width: 540px;
+height: 67px;
+left: 975px;
+top: 355px;
+
+/* p */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+
+color: #727272;
+}
+
+.header_content_img{
+position: absolute;
+
+left: 503px;
+top: 278px;
+
+}
+.header_button{
+position: absolute;
+width: 225px;
+height: 65px;
+left: 975px;
+top: 482px;
+background: #34547A;
+color: #FFFFFF;
+}
